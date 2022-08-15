@@ -1,11 +1,11 @@
-# predict-price-kijiji
-By: Antonio Felipe Vieira
-Date: july, 2022
-Web-scraping data, analyzing and predicting a price.
+# predict-price-kijiji<br>
+By: Antonio Felipe Vieira<br>
+Date: July, 2022<br>
+Web-scraping data, analyzing and predicting a price.<br>
+<br>
+In this project:<br>
 
-In this project:
-
-1) Web scraping data fro Kijiji website;
-2) Clean Data;
-3) Analysis of the dataset;
-4) Use ML to predict the best price for a car.
+1) Web scraping data fro Kijiji website;<br>
+2) Clean Data;<br>
+3) Analysis of the dataset;<br>
+4) Use ML to predict the best price for a car.<br>
