@@ -1,5 +1,5 @@
 # predict-price-kijiji<br>
-By: Antonio Felipe Vieira<br>
+By: <b>Antonio Felipe Vieira</b><br>
 Date: July, 2022<br>
 Web-scraping data, analyzing and predicting a price.<br>
 <br>
